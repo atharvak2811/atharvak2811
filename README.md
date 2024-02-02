@@ -42,7 +42,19 @@ Projects:
 
      •	Developed an LSTM model achieving an accuracy of 85% thereby significantly enhancing the precision of gesture recognition within the application.
 
-3. Breast Cancer Survival Prediction
+3. Twitter Clone
+
+     •	Developed a Twitter clone with React, Node, and MongoDB, mirroring core platform functionalities.
+
+     •	Implemented features like tweet posting, user following, and real-time updates for a seamless user experience.
+
+4. Spotify Clone
+
+   •	Created a Spotify clone replicating the music streaming service's interface and functionalities using React, Node and MongoDB.
+
+   •	Implemented user authentication, playlist management, and music playback functionalities to mirror the Spotify experience.
+
+5. Breast Cancer Survival Prediction
    
      •	Conducted extensive data pre-processing and EDA on 'Breast Cancer Factors' dataset for data preparation.
 
