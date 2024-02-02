@@ -20,9 +20,9 @@ About Me:
 
 •	Former Investment Risk Coop @ Amundi US and Software Development Intern @ PTC. 👩‍💻
 
-•	Passionate about learning and having hands-on experience on new technologies. 💻
+•	Passionate about learning and having hands-on experience on new technologies. 💡
 
-•	Have Finance and Technology interdisciplinary experience.
+•	Have Finance and Technology interdisciplinary experience. 📈 + 💻
 
 Languages:
 
@@ -37,7 +37,15 @@ Projects:
      • The system extracts text from the PDF, preprocesses it using natural language processing techniques, and employs TF-IDF vectors to find the most relevant sentence when answering user questions, providing a basic but functional interactive interface for querying PDF content.
 
 2. Sign Language Detection
- 
+   
      •	Created a comprehensive real-time gesture recognition application integrating Google Media Pipe for object detection, providing users with customizable gestures.
 
      •	Developed an LSTM model achieving an accuracy of 85% thereby significantly enhancing the precision of gesture recognition within the application.
+
+3. Breast Cancer Survival Prediction
+   
+     •	Conducted extensive data pre-processing and EDA on 'Breast Cancer Factors' dataset for data preparation.
+
+     •	Implemented feature-selection and utilized Machine Learning models (SVM, Naïve Bayes, Logistic Regression, Random Forest) to predict breast cancer survival, selecting the model with the highest accuracy.
+
+   
