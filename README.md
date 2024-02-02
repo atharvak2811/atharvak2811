@@ -30,14 +30,14 @@ Languages:
 
 Projects:
 
-PDF-Reader
+1. PDF-Reader
 
-•	The project uses Python with libraries such as PyPDF2, NLTK, and scikit-learn to create a simple question-answering system for a PDF document.
+     •	The project uses Python with libraries such as PyPDF2, NLTK, and scikit-learn to create a simple question-answering system for a PDF document.
 
-• The system extracts text from the PDF, preprocesses it using natural language processing techniques, and employs TF-IDF vectors to find the most relevant sentence when answering user questions, providing a basic but functional interactive interface for querying PDF content.
+     • The system extracts text from the PDF, preprocesses it using natural language processing techniques, and employs TF-IDF vectors to find the most relevant sentence when answering user questions, providing a basic but functional interactive interface for querying PDF content.
 
-Sign Language Detection
+2. Sign Language Detection
  
-•	Created a comprehensive real-time gesture recognition application integrating Google Media Pipe for object detection, providing users with customizable gestures.
+     •	Created a comprehensive real-time gesture recognition application integrating Google Media Pipe for object detection, providing users with customizable gestures.
 
-•	Developed an LSTM model achieving an accuracy of 85% thereby significantly enhancing the precision of gesture recognition within the application.
+     •	Developed an LSTM model achieving an accuracy of 85% thereby significantly enhancing the precision of gesture recognition within the application.
