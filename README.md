@@ -18,7 +18,7 @@ About Me:
 
 •	CS Graduate Student @ Northeastern University. 🏫
 
-•	Former Investment Risk Coop @ Amundi US and Software Development Intern @ PTC. 👩‍💻
+•	Former Data Science Co-op @ Amundi US and Software Development Intern @ PTC. 👩‍💻
 
 •	Passionate about learning and having hands-on experience on new technologies. 💡
 
