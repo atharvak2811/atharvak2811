@@ -18,7 +18,7 @@ About Me:
 
 •	CS Graduate Student @ Northeastern University. 🏫
 
-•	Former Data Science Co-op @ Amundi US, PTC and Hodek Edge Pvt. Ltd. 👩‍💻
+•	Data Science @ Amundi US, PTC and Hodek Edge Pvt. Ltd. 👩‍💻
 
 •	Passionate about learning and having hands-on experience on new technologies. 💡
 
