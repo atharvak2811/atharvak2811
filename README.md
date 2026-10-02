@@ -22,10 +22,6 @@ About Me:
 
 •	Passionate about learning and having hands-on experience on new technologies 💡
 
-Languages:
-
-![image](https://github.com/atharvak2811/atharvak2811/assets/72731132/8a76e357-c09a-4b11-9bf3-bf0b403e30e2)
-
 Projects:
 
 1. Skin Lesion Classification
