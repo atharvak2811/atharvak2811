@@ -18,11 +18,9 @@ About Me:
 
 •	Software Engineer @ Amazon | Ex-Data Scientist @ Amundi US, and PTC 👨🏻‍💻
 
-•	CS Graduate Student @ Northeastern University 🏫
+•	MS CS @ Northeastern University 🏫
 
 •	Passionate about learning and having hands-on experience on new technologies 💡
-
-•	Have Finance and Technology interdisciplinary experience 📈 + 💻
 
 Languages:
 
