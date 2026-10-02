@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 About Me:
 
-•	CS Graduate Student @ Northeastern University. 🏫
+•	Software Engineer @ Amazon | Ex-Data Scientist @ Amundi US, and PTC 👨🏻‍💻
 
-•	Ex-Data Scientist @ Amundi US, PTC and Hodek Edge Pvt. Ltd. 👩‍💻
+•	CS Graduate Student @ Northeastern University 🏫
 
-•	Passionate about learning and having hands-on experience on new technologies. 💡
+•	Passionate about learning and having hands-on experience on new technologies 💡
 
-•	Have Finance and Technology interdisciplinary experience. 📈 + 💻
+•	Have Finance and Technology interdisciplinary experience 📈 + 💻
 
 Languages:
 
